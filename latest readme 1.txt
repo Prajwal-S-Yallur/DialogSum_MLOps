@@ -8,7 +8,7 @@ You have a total of 6 tasks given to you (tasks 0-5) . You have to complete atle
 to full extent inorder to complete the assigment 
 
 1. Task 0 and 1 are mandatory for everyone. 
-2. You need to mandatorily take any one task on the Dockerization skills (Task 3,4,5).
+2. You need to mandatorily take any one task on the Dockerization skills (Task 3, 4, 5).
 3. Additional tasks will fetch you extra points.
 
 Example scenario:
